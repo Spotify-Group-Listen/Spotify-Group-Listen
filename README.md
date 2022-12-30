@@ -4,3 +4,5 @@ When you are listening to music with a bunch of friends, you often will get aske
 This is my solution.
 
 You can create a room, send the code to everyone and anyone will be able to add songs to your queue without you lifting a finger
+
+**PS:** _The app is still in development and therefore is not accessible to everyone._
